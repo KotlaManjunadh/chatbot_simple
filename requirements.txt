@@ -1,0 +1,11 @@
+langchain
+openai
+pandas
+langchain-google-genai
+google-generativeai
+langchain_community
+huggingface_hub
+python-dotenv
+streamlit
+docker
+datasets
